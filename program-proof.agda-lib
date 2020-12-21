@@ -1,0 +1,3 @@
+name: program-equals-proof
+depend: standard-library
+include: src/
