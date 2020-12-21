@@ -1,0 +1,6 @@
+* Notes on Program = Proof
+  This repository contains a series of formalizations of some of the
+  topics contained in the book "Program = Proof" by Samuel Miram.
+
+  This is very much a living repository, so do not be surprised if
+  things change!
